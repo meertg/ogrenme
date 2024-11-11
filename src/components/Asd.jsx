@@ -14,6 +14,50 @@ export default function Asd(){
     </div>
   </div>
 
+    <section id="sx">
+      <div className="left">
+        <h2>
+        Helping a local <span>business reinvent itself</span>
+        </h2>
+        <p>We reached here with our hard work and dedication</p>
+      </div>
+
+      <div className="right">
+      <div className="column">
+        <div className="row">
+        <div>
+          <img src="bvb.svg"/>
+          <div className="stats">
+            <p className="statsnum">123123</p>
+            <p>member</p>
+          </div>
+          </div>
+          <div>
+          <img src="bvb.svg"/>
+          <div className="stats">
+            <p className="statsnum">123123</p>
+            <p>member</p>
+          </div>
+          </div>
+        </div>
+        <div className="row">
+        <div>
+          <img src="bvb.svg"/>
+          <div className="stats">
+            <p className="statsnum">123123</p>
+            <p>member</p>
+          </div>
+          </div>  <div>
+          <img src="bvb.svg"/>
+          <div className="stats">
+            <p className="statsnum">123123</p>
+            <p>member</p>
+          </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
 
     <div className="asd">
     <div className="asd_left">
